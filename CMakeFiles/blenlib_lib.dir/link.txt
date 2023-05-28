@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib/libblenlib_lib.a CMakeFiles/blenlib_lib.dir/src/blenlib/intern/BLI_assert.c.o CMakeFiles/blenlib_lib.dir/src/blenlib/intern/math_base.c.o CMakeFiles/blenlib_lib.dir/src/blenlib/intern/math_color.c.o CMakeFiles/blenlib_lib.dir/src/blenlib/intern/math_geom.c.o CMakeFiles/blenlib_lib.dir/src/blenlib/intern/math_matrix.c.o CMakeFiles/blenlib_lib.dir/src/blenlib/intern/math_rotation.c.o CMakeFiles/blenlib_lib.dir/src/blenlib/intern/math_vector.c.o
+/usr/bin/ranlib lib/libblenlib_lib.a

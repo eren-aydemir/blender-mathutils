@@ -1,0 +1,9 @@
+/workspaces/LCCNet/blender-mathutils/CMakeFiles/stubs_lib.dir
+/workspaces/LCCNet/blender-mathutils/CMakeFiles/blenlib_lib.dir
+/workspaces/LCCNet/blender-mathutils/CMakeFiles/mathutils_module.dir
+/workspaces/LCCNet/blender-mathutils/CMakeFiles/edit_cache.dir
+/workspaces/LCCNet/blender-mathutils/CMakeFiles/rebuild_cache.dir
+/workspaces/LCCNet/blender-mathutils/CMakeFiles/list_install_components.dir
+/workspaces/LCCNet/blender-mathutils/CMakeFiles/install.dir
+/workspaces/LCCNet/blender-mathutils/CMakeFiles/install/local.dir
+/workspaces/LCCNet/blender-mathutils/CMakeFiles/install/strip.dir
